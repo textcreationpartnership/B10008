@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall articles, or, The heads of a charge delivered in the name of the army under the command of His Excellency Sir Thomas Fairfax to the commissioners of Parliament, now with the Army</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10008</idno><idno type="EEBO-CITATION">62369662</idno>
+  <idno type="VID">188128</idno>
+  <idno type="EEBO-PROQUEST">2240871816</idno>
+  
+            <idno type="STC">Wing S2753A</idno>
+            <idno type="STC">ESTC R183759</idno>
+            <idno type="OCLC">62369662</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188128)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2856:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall articles, or, The heads of a charge delivered in the name of the army under the command of His Excellency Sir Thomas Fairfax to the commissioners of Parliament, now with the Army</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:188128:1"/>
+            <head>SEVERALL ARTICLES OR The Heads of a Charge delivered in the name of the Army under the Command of his Ex<g ref="char:EOLhyphen"/>cellency Sir THOMAS FA<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RFAX, to the Commi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sioners of Parliament, now with the Army; to be by them sent up to the Parliament.</head>
+            <head type="sub">AGAINST Denzill Hollis Esq. Sir Phillip Stapleton, Sir William Lewis, Sir John Clotworthy, Sir Willi<g ref="char:EOLhyphen"/>am Waller, Knights; Major Gen. Massey, Sir John Maynard, Col. Walter Long, Col. Edward Harley, and M. Anthony Nichols Esq. Members of the House of Commons: joyntly, or seve<g ref="char:EOLhyphen"/>rally, as followeth.</head>
+            <p>FJrst, that contrary to the trust reposed in them, the persons above named, Mem<g ref="char:EOLhyphen"/>bers of the House of Commons, have ioyntly or severally, invaded, infringed, or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavoured to overthrow the rights and liberties of the Subiects of this Nation; in arbitrary, violent, or oppressive waies (and this in cases where no pretence was, or could be of the excegencies of warre, or other necessaries which might iu<g ref="char:EOLhyphen"/>stifie or excuse the same;) and they have likewise endeavoured by indirect and corrupt practices to delay and obstruct Justice, to the great dammage and preiudice of divers of the poore Commons of England Petitioning for the same.</p>
+            <p n="2">II. That this Army being untill the middle of March last, in a quiet and orderly condition and posture, free from any colour or appearance of distemper or disorder, or from offence to any; and ready (upon reasonable satisfaction in their necessary dues for service past) ei<g ref="char:EOLhyphen"/>ther quietly to have dis-banded, or else to have engaged in service of Jreland; the persons above named, have Joyntly, or Severally endeavoured by false informations, misrepresenta<g ref="char:EOLhyphen"/>tions, or scandalous suggestions against the Army, to beget misunderstandings, preiudices, or iealousies in the Parliament against their Army; and by deluding, surprizing, or other<g ref="char:EOLhyphen"/>wise abusing the Parliament, to engage the authority of Parliament in such proceedings, as to put intollerable and unsufferable iniuries, abuses, and provocations upon the Army; whereby to provoke, and put the Army into distemper; to disobliege, and discourage them from any further ingagement in the Parliaments service: by all which, and other the like practises and proceedings of theirs, the peace of this Kingdome hath been emminently in<g ref="char:EOLhyphen"/>dangered, and the reliefe of Jreland retarded.</p>
+            <p n="3">III. That whereas the Parliament might otherwise have had out of the Army an entire force (answerable to their proportion designed,) to have gone for Jreland as aforesaid, under their old Officers, and conduct; the persons above named (for advancement of their owne ends, faction, and designes, and to the preiudice of the publique) have ioyntly or severally, under pretence of the service of Jreland, endeavoured by such evill practises, as before, to breake and pull this Army in pieces, to the weakning of the power, and endangering the safety of the Parliament and Kingdome; and have likewise endeavoured, to put the Patlia<g ref="char:EOLhyphen"/>ment to the hazzard, delay, and vast expence of raysing a new Forc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as for that service.</p>
+            <p n="4">IIII. That (with the breaking of this Army as aforesaid,) they have in like manner endea<g ref="char:EOLhyphen"/>voured, under pretence of Jreland, to raise a new Force (as before) to advance and carry on designes of their own in England, to the preiudice of the Parliament and Publique: And in pursuance of the same, have endeavoured to divert the Forces ingaged as for Jreland, unto such their purposss as aforesaid here in England; and have in like manner endeavoured to have gained a power from the Parliament, to themselves, or some of them, of diverting and misimploying those forces as aforesaid, and to raise new Forces under pretence to guard the Parliament: and (not having obtained that,) have in like manner endeavoured pri<g ref="char:EOLhyphen"/>vately to list and ingage officers and Souldiers: or procure them to be listed and engaged, without authority of Parliament; for the raysing of, and embroyling this Kingdome in a new and bloudy VVarre, and to hinder the setling and securing the rights, liberties, and peace of the Kingdome; and for the sheltring, upholding and protecting of themselves, and their accomplices, in their uniust, oppressive, and factious designes and proceedings.</p>
+            <p n="5">V. That they have ioyntly or severally invited, incouraged, abetted, or countenanced multi<g ref="char:EOLhyphen"/>tudes of Reformadoes, and other Officers and souldiers, tumultuously and violently to ga<g ref="char:EOLhyphen"/>ther together at VVestminster, to affright and assault the Members of Parliament, in their passage to and from the House; to offer violence to the House it selfe; and by such violence outrages, and threats, to awe, and enforce the Parliament.</p>
+            <p>
+               <hi>These severall Heads of charge, the Army will by such Solicitors as they shall appoint, (when the House of Commons shall admit thereof) make good in particulars each Head, against some of the persons, and some one Head or more against each of the persons: and shall shortly give in the severall particulars against each person respectively, which shall be made good by proofes: the Army desiring to save and reserve to them<g ref="char:EOLhyphen"/>selves the liberty of adding any further charge against all or any of the said Persons</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
